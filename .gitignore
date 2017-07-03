@@ -4,6 +4,7 @@
 *.class
 .idea
 BuildWord.iml
+target
 
 # Log file
 *.log
